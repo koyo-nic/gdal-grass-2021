@@ -11,4 +11,5 @@ node_modules/
 .sass-cache
 dist/*.map
 *.~
-*.pptx
+#*.pptx
+.~Presentation.pptx
